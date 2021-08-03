@@ -1,0 +1,77 @@
+
+img{
+  height: 435px;
+  width: 435px;
+
+
+}
+body
+{
+  background-color:#F1F4DF;
+    color:   #231E23;
+    font-size: 30px;
+      line-height: 40px;
+      padding: 10px;
+      font-family: 'Quicksand', sans-serif;
+}
+h1
+{
+  text-align: center;
+    color:   #C06014;
+
+}
+h2
+{
+  text-align: center;
+    color:   #C06014;
+}
+.food
+{
+  margin-right:20px;
+  margin-left: 20px;
+  text-align: right;
+}
+.transportion
+{
+  margin-right:20px;
+  margin-left: 20px;
+    text-align: right;
+}
+.litehour
+{
+    line-height: 40px;
+  margin-right:20px;
+  margin-left: 20px;
+  text-align: right;
+}
+.zurich
+{
+    line-height: 40px;
+  margin-right:20px;
+  margin-left: 20px;
+  text-align: right;
+}
+.titlis
+{
+    line-height: 40px;
+  margin-right:20px;
+  margin-left: 20px;
+    margin-bottom: 20px;
+  text-align: right;
+}
+.tohn
+{
+    line-height: 40px;
+  margin-right:20px;
+  margin-left: 20px;
+    margin-bottom: 20px;
+  text-align: right;
+}
+.janva
+{
+  line-height: 40px;
+  margin-right:20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  text-align: right;
+}
